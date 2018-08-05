@@ -17,24 +17,35 @@
       <file leaf-file-name="AlarmaController.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/backendRas/api/controllers/AlarmaController.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" column="4" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
+            <state relative-caret-position="102">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="routes.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="routes.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/backendRas/config/routes.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-459" />
+            <state relative-caret-position="423">
+              <caret line="31" column="26" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
+            </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Alarma.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Led.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backendRas/api/controllers/Led.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="10" lean-forward="true" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Alarma.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/backendRas/api/models/Alarma.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="12" selection-end-column="44" />
+            <state relative-caret-position="255">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -60,8 +71,8 @@
       <file leaf-file-name="PuertaController.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/backendRas/api/controllers/PuertaController.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" column="4" lean-forward="true" selection-start-line="8" selection-start-column="2" selection-end-line="25" selection-end-column="4" />
+            <state relative-caret-position="204">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
@@ -69,8 +80,8 @@
       <file leaf-file-name="LuzController.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/backendRas/api/controllers/LuzController.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
+            <state relative-caret-position="493">
+              <caret line="29" column="73" selection-start-line="29" selection-start-column="73" selection-end-line="29" selection-end-column="73" />
             </state>
           </provider>
         </entry>
@@ -86,6 +97,8 @@
         <option value="$PROJECT_DIR$/backendRas/api/models/Alarma.js" />
         <option value="$PROJECT_DIR$/backendRas/api/models/Luz.js" />
         <option value="$PROJECT_DIR$/backendRas/api/models/Puerta.js" />
+        <option value="$PROJECT_DIR$/backendRas/config/routes.js" />
+        <option value="$PROJECT_DIR$/backendRas/api/controllers/Led.js" />
         <option value="$PROJECT_DIR$/backendRas/api/controllers/PuertaController.js" />
         <option value="$PROJECT_DIR$/backendRas/api/controllers/LuzController.js" />
         <option value="$PROJECT_DIR$/backendRas/api/controllers/AlarmaController.js" />
@@ -1159,6 +1172,11 @@
     <property name="settings.editor.selected.configurable" value="project.scopes" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Gonzalo\Documents\GitHub\ServidorSailsRasberryFinal\backendRas\api\controllers" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -1181,12 +1199,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1533437181285</updated>
-      <workItem from="1533437184527" duration="1168000" />
+      <workItem from="1533437184527" duration="2648000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1168000" />
+    <option name="totallyTimeSpent" value="2648000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -1218,13 +1236,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/backendRas/api/models/Alarma.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="12" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/backendRas/api/models/Luz.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -1239,30 +1250,46 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/backendRas/api/controllers/PuertaController.js">
+    <entry file="file://$PROJECT_DIR$/backendRas/config/routes.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="4" lean-forward="true" selection-start-line="8" selection-start-column="2" selection-end-line="25" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/backendRas/api/controllers/LuzController.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
+        <state relative-caret-position="423">
+          <caret line="31" column="26" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/backendRas/api/controllers/AlarmaController.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="4" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/backendRas/config/routes.js">
+    <entry file="file://$PROJECT_DIR$/backendRas/api/controllers/Led.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-459" />
+        <state relative-caret-position="323">
+          <caret line="19" column="10" lean-forward="true" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backendRas/api/controllers/LuzController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="73" selection-start-line="29" selection-start-column="73" selection-end-line="29" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backendRas/api/controllers/PuertaController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backendRas/api/models/Alarma.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
       </provider>
     </entry>
   </component>
