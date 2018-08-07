@@ -27,10 +27,9 @@ module.exports.routes = {
   '/': {
     view: 'pages/homepage'
   },
-
-  'post /luzI': 'LuzController.compare',
+ 'post /luzI': 'LuzController.compare',
   'post /alarmaI': 'AlarmaController.compare',
-  'post /puertaI': 'PuertaController.compare'
-
+  'post /puertaI': 'PuertaController.compare',
+  'post /SensorMagneticoI': 'SensorMagnetico.guardarEstado'
 
 };
